@@ -1,14 +1,18 @@
 ### Hi there 👋 I´m **Krisoa** 
 
-* I´m currently studing **Ux/Ui** at [The Bridge](https://thebridge.tech/)
+* I´m leading the Robotics Department in Respira Company 
 
-* I´m learning how to programming with:
+<img src="http://laroboteca.es/assets/images/logo-2.jpg" alt="Logo" width="300px">
+
+* I´m currently studing **Ux/Ui** at [The Bridge](https://thebridge.tech/)
+* Right now I´m learning how to programming with:
 
 ```
 HTML 
 CSS
 JAVASCRIPT
 ```
+
 
 
 
