@@ -1,12 +1,9 @@
 ### Hi there 👋 I´m **Krisoa** 
 
-* I´m leading the Robotics Department in Respira Company 
-
-<img src="http://laroboteca.es/assets/images/logo-2.jpg" alt="Logo" width="300px">
+* I´m leading the Robotics Department at <img src="http://laroboteca.es/assets/images/logo-2.jpg" alt="Logo" width="150px">
 
 * I´m currently studing **Ux/Ui** at [The Bridge](https://thebridge.tech/)
 * Right now I´m learning how to programming with:
-
 ```
 HTML 
 CSS
