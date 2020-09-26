@@ -1,15 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I´m **Krisoa** 
 
-I´m **Krisoa** 
-* I´m currently studing **Ux/Ui**.
-* I´m currently learning how to programming with:
+* I´m currently studing **Ux/Ui** at [The Bridge](https://thebridge.tech/)
 
- - [x] HTML 
- - [] CSS
- - [] JAVASCRIPT
+* I´m learning how to programming with:
 
-#### Sigue el link
- [Mi portfolio](https://www.behance.net/krisoa)
+```
+HTML 
+CSS
+JAVASCRIPT
+```
+
+
+
  
 
 
