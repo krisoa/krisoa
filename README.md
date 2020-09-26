@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+I´m **Krisoa** 
+* I´m currently studing **Ux/Ui**.
+* I´m currently learning how to programming with:
+
+ - [x] HTML 
+ - [] CSS
+ - [] JAVASCRIPT
+
+#### Sigue el link
+ [Mi portfolio](https://www.behance.net/krisoa)
+ 
+
+
+
+
 <!--
 **krisoa/krisoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
